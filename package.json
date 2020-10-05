@@ -140,4 +140,7 @@
     "reportPath": "target/test-results/jest",
     "reportFile": "TESTS-results-sonar.xml"
   }
+  "publishConfig": {
+    "registry": "http://nexus.nexus1234.10.4.48.114.xip.io/repository/npm-private/"
+  }
 }
